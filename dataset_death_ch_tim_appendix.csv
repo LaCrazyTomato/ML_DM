@@ -1,0 +1,18 @@
+﻿TIME_PERIOD;"TIME_PERIOD is in format YYYY-WXX, where:
+YYYY is the year, e.g. 2020,
+XX is the ISO8601 week number, 01...52/53. The first week of the year is the one that contains the first Thursday of the year.
+Example: 2020-W01";"TIME_PERIOD est au format YYYY-WXX, où:
+YYYY est l'année, par ex. 2020,
+XX est le numéro de semaine selon la norme ISO8601, 01…52/53. La première semaine de l’année est celle qui contient le premier jeudi de l’année.
+Exemple: 2020-W01";"TIME_PERIOD hat das Format YYYY-WXX, wobei:
+YYYY ist das Jahr, z.B. 2020,
+XX ist die Wochennummer gemäss ISO8601, 01…52/53. Die erste Woche des Jahres ist die Woche, die den ersten Donnerstag des Jahres enthält.
+Beispiel: 2020-W01";"TIME_PERIOD è nel formato YYYY-WXX, dove YYYY è l'anno, per es. 2020, XX è ISO8601 il  numero della settimana, per es. 01…52/53. Il primo giorno dell'anno è quello che contiene il primo giovedi dell'anno.
+Esempio: 2020-W01"
+GEO;Includes the country and regional codes. The regional codes belong to NUTS 2016 Classification.;Comprend le pays et le code régional. Le code régional provient de la classification NUTS 2016.;Enthält die Länder- und Regionalcodes. Die Regionalcodes gehören zur NUTS 2016 Klassifikation.;Comprende il Paese e il codice regionale. Il codice regionale proviene dalla classificazione NUTS 2016.
+AGE;Includes the 5-year age group codes to be used for AGE dimension.;Comprend les codes des groupes d'âges quinquennaux utilisés dans la dimension AGE.;Enthält die Codes der 5-Jahres-Altersgruppe, die für die Dimenstion AGE verwendet wird.;Comprende i codici dei gruppi d'età quinquennali utilizzati nella dimensione AGE.
+SEX;Includes the codes to be used for SEX dimension.;Comprend les codes utilisés pour la dimension SEX.;Enthält die Codes, die für die Dimension GESCHLECHT verwendet wird.;Comprende i codici utilizzati per la dimensione SEX.
+OBS_STATUS;Includes the list of codes for observation status (flags) if necessary.;Comprend la liste des codes pour les statuts d'observation (flags) si nécessaires.;Enthält die Codesliste für den Beobachtungsstatus (Flags), falls erforderlich.;Comprende la lista dei codici per lo stato d'osservazione (flags) se necessario.
+DATE2WEEK;Includes, for your use, in case needed, the mapping between the calenda day and the week code from TIME_PERIOD.;Comprend, pour votre usage, en cas de besoin, la correspondance entre le jour du calendrier et le code de la semaine à partir de TIME_PERIOD.;"Enthält für Ihren Gebrauch, falls erfoderlich, die Zuordnung zwischen
+dem Kalendertag und dem Wochencode aus TIME_PERIOD";Comprende, per l'utilizzo da parte dell'utente, in caso di bisogno, la corrispondenza tra il giorno del calendario e il codice della settimana a partire da TIME_PERIOD.
+OBS_VALUE;Number of deaths;Nombre de décès;Anzahl Todesfälle;Numero di decessi
